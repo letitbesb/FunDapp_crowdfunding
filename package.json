@@ -1,0 +1,25 @@
+{
+  "name": "fundapp",
+  "version": "1.0.0",
+  "description": "A simple crowdfunding application, :))",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watchAll"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "author": "Suhani",
+  "license": "ISC",
+  "dependencies": {
+    "fs-extra": "^7.0.0",
+    "ganache-cli": "^6.1.8",
+    "solc": "^0.4.24",
+    "truffle-hdwallet-provider": "0.0.6",
+    "web3": "^1.0.0-beta.35"
+  },
+  "devDependencies": {
+    "jest": "^23.5.0"
+  }
+}
