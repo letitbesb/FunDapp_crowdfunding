@@ -3,7 +3,7 @@ const Web3 = require('web3');
 const compiledCampaignFactory = require('./build/CampaignFactory.json');
 
 const mnemonic =
-  'dust chimney cliff palace coach cross embark merit palace exclude police benefit';
+  '';
 const networkUrl =
   'https://goerli.infura.io/v3/28e1c68f08b54e298fbe6a227264e6cb';
 
